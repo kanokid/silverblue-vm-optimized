@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/recipe-v1.json
-name: kinoite-vmware-f43
-description: Optimized Kinoite 43 with Fresh, Tilix, and VM drivers.
+name: silverblue-vmware-f43
+description: Optimized Silverblue f43 with Tilix, and VMware drivers.
 
-base-image: ghcr.io/ublue-os/kinoite-main
+base-image: ghcr.io/ublue-os/silverblue-main
 image-version: "43" 
 
 modules:
