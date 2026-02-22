@@ -23,6 +23,7 @@ modules:
       - git
       - curl
       - zsh
+      - fastfetch
       - ulauncher # Add this
       - wmctrl    # Helpful for Ulauncher window-switching extensions
   - type: signing # This tells BlueBuild to sign the final image
